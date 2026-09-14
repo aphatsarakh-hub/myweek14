@@ -1,0 +1,45 @@
+// Body
+$body-bg: #fff5f7;
+$body-color: #2d1525;
+
+// Typography
+$font-family-sans-serif: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$font-size-base: 0.95rem;
+$line-height-base: 1.6;
+
+// Colors - Rose & Sunset Pink
+$primary: #f43f5e;
+$secondary: #fb7185;
+$success: #10b981;
+$info: #f472b6;
+$warning: #fb923c;
+$danger: #e11d48;
+$light: #fff1f2;
+$dark: #2d1525;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+// Components
+$border-radius: 12px;
+$border-radius-sm: 8px;
+$border-radius-lg: 18px;
+$border-radius-xl: 24px;
+
+$card-border-radius: 20px;
+$card-border-color: rgba(244, 63, 94, 0.12);
+$card-bg: #ffffff;
+
+$btn-border-radius: 12px;
+$input-border-radius: 12px;
+$input-border-color: #fecdd3;
+$input-focus-border-color: #f43f5e;
+$input-focus-box-shadow: 0 0 0 0.25rem rgba(244, 63, 94, 0.18);
